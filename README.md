@@ -1,6 +1,6 @@
-# Gamma Calculator (C++)
+# Volatility Smile (C++)
 
-A simple C++ implementation of the **Gamma** option Greek using the **Black-Scholes** model.
+A simple C++ implementation of a volatility smile.
 
 ## Build
 
@@ -13,5 +13,5 @@ make
 
 ## Run
 ```
-./gamma
+./volatilitysmile
 ```
